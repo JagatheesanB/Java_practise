@@ -1,0 +1,13 @@
+package J_Collection;
+
+import java.util.ArrayList;
+
+public class I_Collection {
+    public static void main(String[] args) {
+        ArrayList<Integer> arrayList = new ArrayList<>();
+        arrayList.add(1);
+        System.out.println(arrayList.get(0));
+
+
+    }
+}
